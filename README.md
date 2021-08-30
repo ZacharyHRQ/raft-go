@@ -3,9 +3,8 @@
 
 
 ## Learning resources
-| Syntax | Description |
+| Resource | Link |
 | ----------- | ----------- |
-| Resource | LINK |
 | Guide | https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/  | 
 | WIKI | https://en.wikipedia.org/wiki/Raft_(algorithm)   | 
 
